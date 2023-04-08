@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'apinodestr'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_07EDC1F8274E4FB59211F27E871B171C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D8DABE8ACFBC421FA4A3B12E0334D89B }}
           package: .
